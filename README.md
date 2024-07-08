@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href="https://github.com/mavrosk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavrosk&layout=compact&hide=makefile&langs_count=8#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavrosk&layout=compact&hide=makefile&langs_count=8&#gh-dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mavrosk&count_private=true&show_icons=true&hide=issues,contribs"/>
 </a>
 </p>
