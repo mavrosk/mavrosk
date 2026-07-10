@@ -1,27 +1,25 @@
-### Hi there 👋 Welcome to my Github profile.
+### Hi there 👋 Welcome to my GitHub profile!
 
-I'm a developer passionate about building clean, efficient solutions and continuously expanding my technical toolkit. Welcome to my digital workspace!
+I am a self-taught Full-Stack Developer with a background in Civil Engineering. My academic journey deeply sharpened my analytical mindset, which I now apply to building robust web applications, optimizing databases, and exploring automation and IoT integrations. Welcome to my digital workspace!
 
 ---
 
-<!-- Social Badges -->
 <p align="left">
-<a href="https://www.linkedin.com/in/konstantinos-mavros-96b107227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="mailto:kmavros@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Hotmail Badge"></a>
+<a href="https://www.linkedin.com/in/kmavros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="mailto:kmavros@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Hotmail"></a>
 </p>
 
 ## 🚀 About Me
-- 💻 I’m currently working on sharpening my software development skills.
-- 📚 I’m constantly learning new frameworks and tools to write optimized code.
-- 🎯 My goal is to build impactful open-source tools and collaborate on exciting projects.
+- [cite_start]💻 **Currently Working On:** Maintaining large-scale B2B codebases and developing internal applications using modern frontend and backend architectures[cite: 37, 39, 91, 92].
+- [cite_start]🔧 **Hardware & IoT Interest:** Passionate about bridging the gap between physical hardware and software systems (e.g., Arduino, Python, and Node.js integrations)[cite: 3, 61, 101].
+- [cite_start]📚 **Continuous Learning:** Constantly adapting to new tech ecosystems, upgrading legacy applications, and refining my engineering toolkit[cite: 43, 44, 95].
 
-## 🛠️ My Toolbox
-> [!TIP]
-> *Feel free to customize these to match your actual stack!*
+## 🛠️ Tech Stack & Toolbox
 
-- **Languages:** Python, JavaScript, HTML/CSS, SQL
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+- [cite_start]**Programming Languages:** JavaScript, TypeScript, Python, PHP, C (Arduino), HTML5/CSS3[cite: 13, 70].
+- [cite_start]**Frameworks & Libraries:** React, Angular, Vue.js, Node.js, Express, .NET, Laravel, Redux, jQuery[cite: 13, 36, 41, 48].
+- [cite_start]**Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis[cite: 14, 41].
+- [cite_start]**DevOps, Tools & Servers:** Docker, AWS, Microsoft Azure, GitLab, Jenkins, Jira, Linux (Ubuntu), Figma[cite: 16, 18, 19, 36, 41, 53].
 
 ---
 
@@ -34,7 +32,6 @@ I'm a developer passionate about building clean, efficient solutions and continu
   </a>
 </p>
 
-<!-- Visitor Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mavrosk&label=Profile+Views&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mavrosk&label=Profile+Views&color=0077B5" alt="Profile Views" />
 </p>
