@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
-I am a self-taught Full-Stack Developer with a background in Civil Engineering. My academic journey deeply sharpened my analytical mindset, which I now apply to building robust web applications, optimizing databases, and exploring automation and IoT integrations. Welcome to my digital workspace!
+I am a Full-Stack Engineer specializing in scalable web ecosystems (**MERN Stack, Angular + .NET**) and cross-platform mobile development (**React Native**). With an analytical background rooted in Civil Engineering, I excel at solving intricate architectural problems and building seamless digital experiences from front to back.
 
 ---
 
@@ -9,17 +9,19 @@ I am a self-taught Full-Stack Developer with a background in Civil Engineering. 
 <a href="mailto:kmavros@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Hotmail"></a>
 </p>
 
-## 🚀 About Me
-- [cite_start]💻 **Currently Working On:** Maintaining large-scale B2B codebases and developing internal applications using modern frontend and backend architectures[cite: 37, 39, 91, 92].
-- [cite_start]🔧 **Hardware & IoT Interest:** Passionate about bridging the gap between physical hardware and software systems (e.g., Arduino, Python, and Node.js integrations)[cite: 3, 61, 101].
-- [cite_start]📚 **Continuous Learning:** Constantly adapting to new tech ecosystems, upgrading legacy applications, and refining my engineering toolkit[cite: 43, 44, 95].
+## 🚀 What I Do
+- 💻 **Enterprise Web Apps:** Developing robust business solutions leveraging .NET microservices paired with React and Angular frontends.
+- 📱 **Mobile Development:** Building smooth, high-performance cross-platform applications using React Native.
+- 🌐 **MERN Stack Ecosystems:** Designing fast, responsive end-to-end applications utilizing MongoDB, Express, React, and Node.js.
 
 ## 🛠️ Tech Stack & Toolbox
 
-- [cite_start]**Programming Languages:** JavaScript, TypeScript, Python, PHP, C (Arduino), HTML5/CSS3[cite: 13, 70].
-- [cite_start]**Frameworks & Libraries:** React, Angular, Vue.js, Node.js, Express, .NET, Laravel, Redux, jQuery[cite: 13, 36, 41, 48].
-- [cite_start]**Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis[cite: 14, 41].
-- [cite_start]**DevOps, Tools & Servers:** Docker, AWS, Microsoft Azure, GitLab, Jenkins, Jira, Linux (Ubuntu), Figma[cite: 16, 18, 19, 36, 41, 53].
+- **Frontend:** React, Angular, Redux, Vue.js, TypeScript, JavaScript, HTML5/CSS3
+- **Backend & Mobile:** .NET, Node.js (Express), React Native
+- **Databases & Cloud:** MongoDB, PostgreSQL, MySQL, Microsoft Azure,
+- **DevOps & Tools:** Docker, Azure Devops, Github, GitLab CI/CD, Jira, Figma
+- **Communication & Organisation:** MS Teams, Slack, ClickUp, Notion
+- **Automations & RAG:** Python, Make
 
 ---
 
@@ -30,8 +32,4 @@ I am a self-taught Full-Stack Developer with a background in Civil Engineering. 
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mavrosk&layout=compact&hide=makefile&langs_count=8&theme=radical" alt="Top Languages" />
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mavrosk&count_private=true&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mavrosk&label=Profile+Views&color=0077B5" alt="Profile Views" />
 </p>
