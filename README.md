@@ -29,12 +29,10 @@ I'm a developer passionate about building clean, efficient solutions and continu
 
 <p align="left">
   <a href="https://github.com/mavrosk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavrosk&layout=compact&hide=makefile&langs_count=8&theme=radical" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mavrosk&count_private=true&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mavrosk&layout=compact&hide=makefile&langs_count=8&theme=radical" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mavrosk&count_private=true&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
-
-<br>
 
 <!-- Visitor Counter -->
 <p align="left">
